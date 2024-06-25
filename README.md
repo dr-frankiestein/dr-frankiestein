@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Frankie</h1>
-<h3 align="center">A full-stack software engineer based in NYC. I have a background in Chemical Engineering and Political Science.</h3>
+<h3 align="center">A full-stack software engineer based in NYC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-frankiestein&label=Profile%20views&color=0e75b6&style=flat" alt="dr-frankiestein" /> </p>
 
