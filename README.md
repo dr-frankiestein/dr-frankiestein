@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./github-header-image.png)
+![Header](./github-header-image0.png)
 <h1 align="center">Hi 👋, I'm Frankie</h1>
 <h3 align="center">A full-stack software engineer based in NYC.</h3>
 
