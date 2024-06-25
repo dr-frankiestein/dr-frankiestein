@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-frankiestein&show_icons=true&theme=dark&locale=en&layout=compact" alt="dr-frankiestein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-frankiestein&show_icons=true&theme=dark&locale=en" alt="dr-frankiestein" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-frankiestein&show_icons=true&theme=dark&locale=en" alt="dr-frankiestein" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-frankiestein&theme=dark" alt="dr-frankiestein" /></p>
 
